@@ -1,4 +1,4 @@
-# SURE: Uncertainty-Guided Rubric Evolution for Pairwise Reward Modeling
+# SURE: Evolving Pairwise Reward Models with Rubrics from Uncertain Comparisons
 
 ![ICLR 2027](https://img.shields.io/badge/ICLR-2027%20Submission-blue)
 ![Anonymous](https://img.shields.io/badge/review-anonymous-lightgrey)
