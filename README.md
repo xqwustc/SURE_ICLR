@@ -13,8 +13,6 @@ SURE closes the loop between pairwise reward-model uncertainty and reusable pref
 4. evolve a two-level rubric using errors made by the current preference model; and
 5. optionally use the resulting pairwise model as a group-relative reward for policy optimization.
 
-Only method-critical source files are included. Checkpoints, datasets, API credentials, experiment outputs, machine-specific launch files, usernames, and private filesystem paths are intentionally excluded.
-
 ## Repository Layout
 
 ```text
